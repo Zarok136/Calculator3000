@@ -1,0 +1,10 @@
+body, html{
+  margin: 0;
+  background-color: #3b4664;
+  color: #ebebeb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100dvh;
+  font-family: 'roboto', sans-serif;
+}
